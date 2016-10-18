@@ -1,0 +1,14 @@
+#button-1, #input-1, #button-2 {
+    display: inline-block;
+}
+
+#counter {
+    ;
+    border: solid mediumvioletred;
+    text-align: center;
+    padding-bottom: 5px;
+    top: 50%;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px
+}
